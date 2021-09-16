@@ -8,6 +8,7 @@ Aplicação em HTML, CSS e Java Script para obter informações meteorológicas 
 
 ### Base do projeto
 
+Como exercício de prática, usei o repositório do Rodrigo!
 https://github.com/rodrigorgtic/clima-tempo-js
 
 ### API
